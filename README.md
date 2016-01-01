@@ -1,3 +1,3 @@
-# Harvest Moon Maven repository
+# Terrartis Maven repository
 
-This Maven repository contains Harvest Moon's dependencies that are not in other public Maven repositories.
+This Maven repository contains Terrartis's dependencies that are not in other public Maven repositories.
